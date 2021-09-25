@@ -1,8 +1,8 @@
 Rencana Belajar
 Belajar dari Youtube
   -> GIT
-  -> JAVA
+  -> JAVASCRIPT
   -> PHP
-  ->Struktur Data
+Belajar membuat halaman web + bootstrap
 E-Course
 Kuliah
