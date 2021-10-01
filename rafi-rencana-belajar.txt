@@ -4,6 +4,5 @@ Belajar dari Youtube
   -> JAVASCRIPT
   -> PHP
 Belajar membuat halaman web + bootstrap
-E-Course
 Kuliah
 Belajar Bahasa Inggris
